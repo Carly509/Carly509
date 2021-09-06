@@ -26,7 +26,7 @@
 [![file_type_typescript_official_icon_130107](https://user-images.githubusercontent.com/42774502/132243117-7681a814-7f58-464c-a368-0e6287f9b594.png)
 ](https://www.typescriptlang.org/)
 [![file_type_html_icon_130541](https://user-images.githubusercontent.com/42774502/132246532-f8262a18-e465-4a9a-8c39-d508d80ddf74.png)](https://html.com/)
-[![file_type_css_icon_130661](https://user-images.githubusercontent.com/42774502/132246628-58380fb2-2369-4235-b95c-a583136e292c.png)] (https://www.w3schools.com/css/)
+[![file_type_css_icon_130661](https://user-images.githubusercontent.com/42774502/132246628-58380fb2-2369-4235-b95c-a583136e292c.png)](https://www.w3schools.com/css/)
 
 
 
