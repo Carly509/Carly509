@@ -20,10 +20,11 @@
 ### What I use a little every day
 [![icons8-react-40](https://user-images.githubusercontent.com/42774502/124468436-17775a80-dd67-11eb-9aa9-0557d7002d36.png)](https://fr.reactjs.org/)
 [![javascript_icon_130900 (1)](https://user-images.githubusercontent.com/42774502/132241171-55efe49a-4b13-4cfb-a37d-5159f946753f.png)](https://www.javascript.com/)
-[![download (3)](https://user-images.githubusercontent.com/42774502/132240151-5274b470-b7aa-4d72-80f0-b967a7b19795.png)](https://reactnative.dev/)
-[![download (4)](https://user-images.githubusercontent.com/42774502/132240360-207f89de-5131-41c1-98c0-4b2e114ba125.png)](https://rubyonrails.org/)
-[![download (5)](https://user-images.githubusercontent.com/42774502/132240554-910eec35-6597-42ff-b191-3545c07804d8.png)](https://www.ruby-lang.org/)
-[![download (6)](https://user-images.githubusercontent.com/42774502/132240682-0195e9aa-826b-4569-b4c6-c59230e01753.png)](https://www.typescriptlang.org/)
+[![react_original_logo_icon_146374](https://user-images.githubusercontent.com/42774502/132243446-b3602283-73c6-4840-a3aa-b808969a4f04.png)](https://reactnative.dev/)
+[![file_type_rails_icon_130210](https://user-images.githubusercontent.com/42774502/132242792-c4739b53-35ef-4f7e-88a1-5e88d284697e.png)](https://rubyonrails.org/)
+[![ruby_original_wordmark_logo_icon_146364](https://user-images.githubusercontent.com/42774502/132242920-514f74b4-0189-4fb3-a326-5ef71c1988ea.png)](https://www.ruby-lang.org/)
+[![file_type_typescript_official_icon_130107](https://user-images.githubusercontent.com/42774502/132243117-7681a814-7f58-464c-a368-0e6287f9b594.png)
+](https://www.typescriptlang.org/)
 
 
 
