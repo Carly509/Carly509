@@ -32,8 +32,7 @@
 [![file_type_html_icon_130541](https://user-images.githubusercontent.com/42774502/132246532-f8262a18-e465-4a9a-8c39-d508d80ddf74.png)](https://html.com/)
 [![file_type_css_icon_130661](https://user-images.githubusercontent.com/42774502/132246628-58380fb2-2369-4235-b95c-a583136e292c.png)](https://www.w3schools.com/css/)
 [![9114856761551941711-64](https://user-images.githubusercontent.com/42774502/133667499-6f4025b8-9a85-4d86-a6e9-b62d59b37fa5.png)](https://nextjs.org/)
-
-
+[![file_type_node_icon_130301](https://user-images.githubusercontent.com/42774502/134688218-ab343207-58e6-4e0a-8286-5c53821448e4.png)](https://nodejs.org/)
 
 <!---
 Carly509/Carly509 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
