@@ -18,7 +18,7 @@
 ### Let's be in touch
 [![icons8-twitter-30](https://user-images.githubusercontent.com/42774502/124468066-a89a0180-dd66-11eb-9c71-97efc1e5bbef.png)](https://twitter.com/TesnorC)
 
-[![linkedin_icon-icons com_65929 (1)](https://user-images.githubusercontent.com/42774502/134689817-b3f3674e-0427-4e51-86e2-938b870ba70c.png)](https://www.linkedin.com/in/carly-r-tesnor-633736160/)
+[![linkedin_icon-icons com_65929 (1)](https://user-images.githubusercontent.com/42774502/134689817-b3f3674e-0427-4e51-86e2-938b870ba70c.png)](https://www.linkedin.com/in/carly-tesnor-633736160/)
 
 
 
