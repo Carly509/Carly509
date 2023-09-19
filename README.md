@@ -6,7 +6,7 @@
   
   [![Twitter URL](https://img.shields.io/twitter/url/https/twitter.com/bukotsunikki.svg?style=social&label=Follow%20%40tesnorc)](https://twitter.com/TesnorC)
   
-- 👀 I’m interested in MERN Stack
+- 👀 I’m interested in Data Analytics
 - 🌱 I’m currently learning aws and .NET
 - 💬 Ask me about Javascript and Ruby
 - 📫 How to reach me tesnorcarly@gmail.com
