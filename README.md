@@ -1,18 +1,34 @@
   ### <img width="985" height=5% alt="Screen Shot 2021-09-23 at 12 14 28" src="https://user-images.githubusercontent.com/42774502/134544835-7134a924-a608-44d3-8349-2d8e7fb719f3.png">
   
   
-  # 👋 Hi, I’m Carly Tesnor
+ <h1> 👋 <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to see you.</h1>
 
-  
-  [![Twitter URL](https://img.shields.io/twitter/url/https/twitter.com/bukotsunikki.svg?style=social&label=Follow%20%40tesnorc)](https://twitter.com/TesnorC)
-  
-- 👀 I’m interested in Data Analytics
-- 🌱 I’m currently learning aws and .NET
-- 💬 Ask me about Javascript and Ruby
-- 📫 How to reach me tesnorcarly@gmail.com
-- know about my work & experience 
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-0CC1F3?style=flat-square&logo=docker&logoColor=white)
+![React.js](https://img.shields.io/badge/React.js-0081CB?style=flat-square&logo=react&logoColor=61DAFB)
+![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=flat-square&logo=vue.js&logoColor=4FC08D)
+![Vite](https://img.shields.io/badge/Vite-593D88?style=flat-square&logo=vite&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=flat-square&logo=node.js&logoColor=white)
+![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=flat-square&logo=jquery&logoColor=white)
+![WordPress](https://img.shields.io/badge/Wordpress-21759B?style=flat-square&logo=wordpress&logoColor=white)
+![Elementor](https://img.shields.io/badge/Elementor-9146FF?style=flat-square&logo=elementor&logoColor=white)
+![Markdown](https://img.shields.io/badge/Markdown-000000?style=flat-square&logo=markdown&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=flat-square&logo=bootstrap&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=flat-square&logo=mysql&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-07405E?style=flat-square&logo=sqlite&logoColor=white)
+![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?&style=flat-square&logo=redis&logoColor=white)
+![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=flat-square&logo=netlify&logoColor=white)
+![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=flat-square&logo=Cloudflare&logoColor=white)
+![Mac OS](https://img.shields.io/badge/macOS-000000?style=flat-square&logo=apple&logoColor=white)
+![Ruby On Rails](https://user-images.githubusercontent.com/42774502/132242792-c4739b53-35ef-4f7e-88a1-5e88d284697e.png)
+![Next JS](https://user-images.githubusercontent.com/42774502/133667499-6f4025b8-9a85-4d86-a6e9-b62d59b37fa5.png)
 
-### What can I help with?
+I am a Full Stack Developer with a huge love for Vue.js, React.js, Ruby On rails, WordPress, TailwindCSS and System Architecture.
 
 
 ### Let's be in touch
@@ -20,24 +36,8 @@
 
 [![linkedin_icon-icons com_65929 (1)](https://user-images.githubusercontent.com/42774502/134689817-b3f3674e-0427-4e51-86e2-938b870ba70c.png)](https://www.linkedin.com/in/carly-tesnor-633736160/)
 
+I love to read books,listen to music and play soccer.
 
-
-### What I use a little every day
-[![icons8-react-40](https://user-images.githubusercontent.com/42774502/124468436-17775a80-dd67-11eb-9aa9-0557d7002d36.png)](https://fr.reactjs.org/)
-[![javascript_icon_130900 (1)](https://user-images.githubusercontent.com/42774502/132241171-55efe49a-4b13-4cfb-a37d-5159f946753f.png)](https://www.javascript.com/)
-[![react_original_logo_icon_146374](https://user-images.githubusercontent.com/42774502/132243446-b3602283-73c6-4840-a3aa-b808969a4f04.png)](https://reactnative.dev/)
-[![file_type_rails_icon_130210](https://user-images.githubusercontent.com/42774502/132242792-c4739b53-35ef-4f7e-88a1-5e88d284697e.png)](https://rubyonrails.org/)
-[![ruby_original_wordmark_logo_icon_146364](https://user-images.githubusercontent.com/42774502/132242920-514f74b4-0189-4fb3-a326-5ef71c1988ea.png)](https://www.ruby-lang.org/)
-[![file_type_typescript_official_icon_130107](https://user-images.githubusercontent.com/42774502/132243117-7681a814-7f58-464c-a368-0e6287f9b594.png)
-](https://www.typescriptlang.org/)
-[![file_type_html_icon_130541](https://user-images.githubusercontent.com/42774502/132246532-f8262a18-e465-4a9a-8c39-d508d80ddf74.png)](https://html.com/)
-[![file_type_css_icon_130661](https://user-images.githubusercontent.com/42774502/132246628-58380fb2-2369-4235-b95c-a583136e292c.png)](https://www.w3schools.com/css/)
-[![9114856761551941711-64](https://user-images.githubusercontent.com/42774502/133667499-6f4025b8-9a85-4d86-a6e9-b62d59b37fa5.png)](https://nextjs.org/)
-[![file_type_node_icon_130301 (1)](https://user-images.githubusercontent.com/42774502/134688669-dfa61223-a693-4e73-b92d-26c580bd27f4.png)](https://nodejs.org/)
-
-
-
-
-Carly509/Carly509 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 🌱 I’m currently learning many things, I believe that everyday is a learning opportunity.
+- 💬 Ask me about Vue.js, React.js, Ruby, and API development.
+- :wrench: Tools - VSCode, Insomnia, Markdown Editors, Spotify.
